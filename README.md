@@ -1,2 +1,2 @@
-# -TEAMCHICK
+# -TEAMCHICK-
 OOP project
